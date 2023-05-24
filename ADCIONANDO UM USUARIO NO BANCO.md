@@ -8,7 +8,7 @@ CREATE USER 'jader'@'localhost' IDENTIFIED WITH mysql_native_password BY '123456
 
 PASSO 2º
 ADCIONANDO A PERMISSAO
-GRANT ALL PRIVILEGES ON *.* 'jader'@'localhost'; 
+GRANT ALL PRIVILEGES ON *.* TO 'jader'@'localhost'; 
 
 
 3º PASSO
