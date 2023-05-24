@@ -1,4 +1,6 @@
 # CursoNodeJsAula06
+COMANDOS PARA SEREM UTILIZADOS.
+
 CONECTANDO O ARQUIVO APP.JS AO BANCO DE DADOS MySQL ( Workbench)
 Adcionando um usuario para acesso ao banco de dados
 PASSO 1º
