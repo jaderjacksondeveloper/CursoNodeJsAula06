@@ -24,3 +24,9 @@ GRANT ALL PRIVILEGES ON *.* TO 'jader'@'localhost';
 3º PASSO
 PASSANDO INFORMAÇÕES PARA DENTRO DA TABELA ATRAVES DO TERMINAL
 INSERT INTO users (nome, email) VALUES ('jader','jader@gmail.com')
+
+4ª CRIANDO UM USUARIO
+CREATE USER 'usuario'@'localhost' IDENTIFIED WITH mysql_native_password BY 'senha do banco de dados'
+
+5ª Liberando privilegios para o usuario no banco: 
+GRANT ALL PRIVILEGES ON * . * TO ' jader'@'localhost'; 
